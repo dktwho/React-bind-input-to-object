@@ -1,3 +1,10 @@
+# Содержание
+
+Привязка инпутов к объекту в React
+
+1. Выведение значение из ключей объекта на страницу и привязка к каждому к ключу инпута для изменения значения
+2. Вывод в абзац года, месяца и дня из даты, хранящейся в стейте, и добавления трех инпутов для редактирвоания.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
